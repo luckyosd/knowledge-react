@@ -1,0 +1,51 @@
+[{
+        "ID": "001",
+        "Cover": "https://i.ibb.co/BfshCcB/gadgets-office-supplies.jpg",
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Author-img": "https://i.ibb.co/BN4dcD4/lifestyle-concept-portrait-ginger-red-hair-girl-with-shocking-stressful-expression-while-talk.jpg",
+        "Posted-date": "2024-03-15",
+        "Reading-time": "3 minutes",
+        "Hashtag": "#classic #literature"
+    },
+    {
+        "ID": "002",
+        "Cover": "https://i.ibb.co/q9qwQwM/tablet-which-you-can-read-blog.jpg",
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Author-img": "https://i.ibb.co/wL75gkf/portrait-happy-ginger-red-hair-girl-with-freckles-smiling-looking-camera-pastel-blue-backgroun.jpg",
+        "Posted-date": "2024-03-14",
+        "Reading-time": "4 minutes",
+        "Hashtag": "#fiction #justice"
+    },
+    {
+        "ID": "003",
+        "Cover": "https://i.ibb.co/NspVJdm/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Author-img": "https://i.ibb.co/PMYTS5V/close-up-portrait-young-beautiful-attractive-redhair-girl-happy-smiling-digital-table-with-wining.jpg",
+        "Posted-date": "2024-03-13",
+        "Reading-time": "5 minutes",
+        "Hashtag": "#dystopian #surveillance"
+    },
+    {
+        "ID": "004",
+        "Cover": "https://i.ibb.co/XfPZTgx/organized-office-desk-with-copy-space.jpg",
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Author-img": "https: //i.ibb.co/6vLbr7Y/young-asia-lady-with-positive-expression-smile-broadly-dressed-casual-clothing-isolated-blue-backgro.jpg",
+        "Posted-date": "2024-03-12",
+        "Reading-time": "3 minutes",
+        "Hashtag": "#comingofage #rebels"
+    },
+    {
+        "ID": "005",
+        "Cover": "https://i.ibb.co/196YQMt/blogging-gone-viral-camera-concept.jpg",
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Author-img": "https: //i.ibb.co/58932qg/woman-portrait-wearing-eyewear-black-background.jpg",
+        "Posted-date": "2024-03-11",
+        "Reading-time": "6 minutes",
+        "Hashtag": "#romance #regency"
+    }
+]
